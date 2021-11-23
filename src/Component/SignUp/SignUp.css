@@ -1,0 +1,87 @@
+.SignAll {
+  margin-top: -9rem;
+}
+
+.SignAll-SignUp {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  font-size: 5rem;
+  color: #fff;
+  margin-right: -16rem;
+  margin-bottom: 23rem;
+}
+
+.SignAll-SignUp-text {
+  border-bottom: 3px solid #fff;
+}
+
+.SignUp {
+  color: #fff;
+  background-color: #110e0f;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 3rem 14rem;
+  border-radius: 2rem;
+  margin-top: -23rem;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.SignUp .SignUp-header {
+  font-size: 8rem;
+  margin-bottom: 2rem;
+  letter-spacing: 2px;
+}
+
+.SignUp .SignUp-Form {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 2.7rem;
+}
+
+.SignUp .SignUp-Form .SignUp-Form-input {
+  font-size: 3.5rem;
+  margin-right: 7rem;
+  letter-spacing: 1.5px;
+}
+.SignUp .SignUp-Form .SignUp-Form-input p {
+  margin-bottom: -1.2rem;
+}
+
+.SignUp .SignUp-Form .SignUp-Form-input input {
+  font-size: 1.8rem;
+  background-color: transparent;
+  border: none;
+  outline: none;
+  border-bottom: 2px solid #fff;
+  padding-bottom: 4px;
+  color: #fff;
+  letter-spacing: 1px;
+}
+
+.SignUp .SignUp-Form-google {
+  margin-bottom: -2.5rem;
+  margin-left: 1rem;
+}
+
+.SignUp-button {
+  margin-left: -34rem;
+  margin-bottom: 1.5rem;
+}
+
+.SignUp .SignUp-button .SignUp-button-text {
+  font-size: 1.9rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  color: #110e0f;
+  padding: 1.5rem 3rem;
+  border-radius: 2rem;
+  letter-spacing: 1.5px;
+  border: none;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}

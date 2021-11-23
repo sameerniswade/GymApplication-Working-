@@ -1,0 +1,144 @@
+.Details {
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  background-color: #110e0f;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 13rem;
+  color: #ffffff;
+  padding: 3rem;
+  border-radius: 2rem;
+}
+
+.Details .exit img {
+  width: 4rem;
+  margin-left: 90rem;
+}
+
+.details-info {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  margin-right: -10rem;
+}
+
+.details-info .details-imgInfo {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: -3rem;
+}
+
+.img-name {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-size: 3rem;
+}
+
+.img-name img {
+  width: 25rem;
+  height: 25rem;
+  border-radius: 100%;
+  margin-bottom: 17rem;
+}
+
+.img-name .img-name-text {
+  font-size: 2rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+.img-name .img-name-text p {
+  margin: 0rem 1rem;
+  font-size: 3rem;
+  margin-top: -16rem;
+}
+
+.img-name p {
+  margin-top: -4rem;
+}
+
+.details-imgInfo-extra {
+  margin: 5rem;
+}
+.details-imgInfo-extra .details-imgInfo-extra-text p {
+  font-size: 2.5rem;
+  margin: 2rem;
+  letter-spacing: 2px;
+}
+
+.details-imgInfo-extra-date {
+}
+.start-date {
+  background-color: #fff;
+  color: #110e0f;
+  border-radius: 2rem;
+  margin: 2rem;
+  padding: 1rem;
+}
+
+.start-date .start-date-head {
+  font-size: 3rem;
+}
+
+.start-date .start-date-body {
+  display: flex;
+  flex-direction: row;
+  margin: -3rem 0rem;
+}
+.start-date-body-day {
+  font-size: 9rem;
+  margin: 1rem;
+}
+
+.start-date-body-my {
+  align-items: flex-start;
+  margin: 1rem;
+}
+
+.start-date-body-my .start-date-body-my-month {
+  font-size: 3rem;
+}
+.start-date-body-my .start-date-body-my-year {
+  font-size: 2.5rem;
+}
+
+.end-date {
+  background-color: #fff;
+  color: #110e0f;
+  border-radius: 2rem;
+  margin: 2rem;
+  padding: 1rem;
+}
+
+.end-date .end-date-head {
+  font-size: 3rem;
+}
+
+.end-date .end-date-body {
+  display: flex;
+  flex-direction: row;
+  margin: -3rem 0rem;
+}
+.end-date-body-day {
+  font-size: 9rem;
+  margin: 1rem;
+}
+
+.end-date-body-my {
+  align-items: flex-start;
+  margin: 1rem;
+}
+
+.end-date-body-my .end-date-body-my-month {
+  font-size: 3rem;
+}
+.end-date-body-my .end-date-body-my-year {
+  font-size: 2.5rem;
+}
