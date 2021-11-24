@@ -1,7 +1,7 @@
 Anybody can used this code  
 
 
-Interior Designer Webside made for my friend.
+
 
 For developer:
 
